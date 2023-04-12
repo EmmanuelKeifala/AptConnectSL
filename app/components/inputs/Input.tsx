@@ -3,7 +3,7 @@
 "use client";
 
 import { FieldErrors, FieldValues, UseFormRegister } from "react-hook-form";
-import { BiLeone } from "react-icons/bi";
+
 
 interface InputProps {
 	id: string;
